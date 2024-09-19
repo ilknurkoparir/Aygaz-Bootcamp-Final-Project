@@ -59,4 +59,4 @@ Bu projede, SVM gibi denetimli öğrenme yöntemlerinin, etiketli veri üzerinde
 ## Kaggle Not Defteri
 
 Bu projeye ait Kaggle not defterine aşağıdaki bağlantıdan erişebilirsiniz:
-[Kaggle Not Defteri Bağlantısı]([your_kaggle_notebook_link](https://www.kaggle.com/code/lknurkoparir/classification-with-svm-kmeans))
+(https://www.kaggle.com/code/lknurkoparir/classification-with-svm-kmeans/notebook)
